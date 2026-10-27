@@ -1,0 +1,20 @@
+{
+  "live_api": {
+    "name": "remotive",
+    "url": "https://remotive.com/api/remote-jobs",
+    "limit": 30
+  },
+  "html_example": {
+    "enabled": false,
+    "url": "",
+    "selectors": {
+      "container": ".job",
+      "title": ".title",
+      "company": ".company",
+      "location": ".location",
+      "description": ".description",
+      "url": "a",
+      "job_id_attribute": "data-job-id"
+    }
+  }
+}

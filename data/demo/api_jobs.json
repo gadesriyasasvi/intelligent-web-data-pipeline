@@ -1,0 +1,44 @@
+{
+  "jobs": [
+    {
+      "id": "api-1001",
+      "title": "  Python Data Engineer ",
+      "company_name": "Northstar Analytics",
+      "candidate_required_location": "India",
+      "description": "Build data pipelines using Python, SQL, Docker and Airflow.",
+      "url": "https://example.invalid/jobs/api-1001",
+      "publication_date": "2026-10-10",
+      "salary": "INR 12,00,000 - INR 18,00,000"
+    },
+    {
+      "id": "api-1002",
+      "title": "Junior Machine Learning Engineer",
+      "company_name": "Blue Cedar Labs",
+      "candidate_required_location": "Bengaluru, India",
+      "description": "Work with Python, pandas, scikit-learn and SQL.",
+      "url": "https://example.invalid/jobs/api-1002",
+      "publication_date": "2026-10-09",
+      "salary": ""
+    },
+    {
+      "id": "api-1003",
+      "title": "Backend Python Developer",
+      "company_name": "Northstar Analytics",
+      "candidate_required_location": "Remote - India",
+      "description": "Develop APIs with Python, REST APIs, PostgreSQL and Docker.",
+      "url": "https://example.invalid/jobs/api-1003",
+      "publication_date": "2026-10-08",
+      "salary": "\u20b9 10 LPA"
+    },
+    {
+      "id": "api-1004",
+      "title": "Data Analyst",
+      "company_name": "Maple Systems",
+      "candidate_required_location": "Hyderabad, India",
+      "description": "Analyze data using Excel, SQL and Python. Two years of experience preferred.",
+      "url": "https://example.invalid/jobs/api-1004",
+      "publication_date": "2026-10-07",
+      "salary": "INR 700000 - INR 1000000"
+    }
+  ]
+}
