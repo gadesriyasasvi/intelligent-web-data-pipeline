@@ -1,0 +1,106 @@
+{
+  "total_jobs": 7,
+  "companies_count": 5,
+  "locations_count": 5,
+  "jobs_with_salary": 3,
+  "jobs_missing_comparable_salary": 4,
+  "mean_salary_midpoint": 1116666.67,
+  "top_skills": [
+    {
+      "name": "python",
+      "count": 6
+    },
+    {
+      "name": "sql",
+      "count": 5
+    },
+    {
+      "name": "docker",
+      "count": 3
+    },
+    {
+      "name": "rest apis",
+      "count": 2
+    },
+    {
+      "name": "excel",
+      "count": 2
+    },
+    {
+      "name": "postgresql",
+      "count": 1
+    },
+    {
+      "name": "apache spark",
+      "count": 1
+    },
+    {
+      "name": "css",
+      "count": 1
+    },
+    {
+      "name": "html",
+      "count": 1
+    },
+    {
+      "name": "javascript",
+      "count": 1
+    },
+    {
+      "name": "pandas",
+      "count": 1
+    },
+    {
+      "name": "scikit-learn",
+      "count": 1
+    },
+    {
+      "name": "airflow",
+      "count": 1
+    }
+  ],
+  "jobs_by_location": [
+    {
+      "name": "Remote, India",
+      "count": 2
+    },
+    {
+      "name": "Bengaluru, India",
+      "count": 2
+    },
+    {
+      "name": "Hyderabad, India",
+      "count": 1
+    },
+    {
+      "name": "Pune, India",
+      "count": 1
+    },
+    {
+      "name": "India",
+      "count": 1
+    }
+  ],
+  "top_companies": [
+    {
+      "name": "Northstar Analytics",
+      "count": 2
+    },
+    {
+      "name": "Cobalt Data",
+      "count": 2
+    },
+    {
+      "name": "Maple Systems",
+      "count": 1
+    },
+    {
+      "name": "Paper Kite",
+      "count": 1
+    },
+    {
+      "name": "Blue Cedar Labs",
+      "count": 1
+    }
+  ]
+}
